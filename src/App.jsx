@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Doctors from './pages/Doctors'
 import Login from "./pages/Login"
 import About from "./pages/About"
-import Contact from "./pages/Contact"
+import Contact from "./pages/Contact" 
 import MyProfile from "./pages/MyProfile"
 import MyAppointments from "./pages/MyAppointments"
 import Appointment from "./pages/Appointment"
